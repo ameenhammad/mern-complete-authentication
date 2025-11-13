@@ -1,0 +1,11 @@
+/* Tailwind CSS v4 recommended layer imports */
+@import "tailwindcss";
+@import "tailwindcss/theme" layer(theme);
+
+/* Optional: extend layers if you need custom CSS */
+@layer base {
+}
+@layer components {
+}
+@layer utilities {
+}
